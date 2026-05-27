@@ -55,7 +55,7 @@ Avenor Calendar does not send your calendar, event, or reminder data to the deve
 
 ## Contact
 
-If you have questions about this policy or need support, please contact:
+If you have questions about this policy or need support for Avenor Calendar, please contact:
 
 cliptiodev@gmail.com
 
