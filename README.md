@@ -57,7 +57,7 @@ Dayvara does not send your calendar, event, or reminder data to the developer or
 
 If you have questions about this policy or need support for Dayvara, please contact:
 
-dayvara@markhallerman.com
+avenor@markhallerman.com
 
 ---
 
