@@ -1,6 +1,6 @@
 # Dayvara Privacy Policy
 
-Last updated: May 27, 2026
+Last updated: May 31, 2026
 
 Dayvara is designed to respect your privacy.
 
