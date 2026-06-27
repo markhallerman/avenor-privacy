@@ -104,7 +104,7 @@ above.
 If you have questions about this policy or need support for Dayvara, please
 contact:
 
-dayvara@markhallerman.com
+dayvara@hallerman.org
 
 This privacy policy may be updated from time to time to reflect app changes or
 legal requirements. Any updates will be posted on this page.
